@@ -2,6 +2,9 @@
 
 An offline-first, highly customizable Android application that turns reading and note-taking into an active learning experience. With fully local processing, cloud and local AI integration, smart study metrics, and hands-free text-to-speech (TTS), this app serves as your ultimate study dashboard and reader.
 
+Be a tester of pre-release app, email: android.xapps-lab@gmail.com
+Link: https://play.google.com/store/apps/details?id=com.xappslab.enotebookcompanion
+
 ---
 
 ## 📸 Screenshots
