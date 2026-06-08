@@ -188,12 +188,21 @@ $env:JAVA_HOME="C:\Program Files\Android\Android Studio\jbr"
 
 ---
 
+## 📋 Release Notes
+
+### v2.01
+- Fix: Grid Heatmap not updating
+- Fix: Gemini API Key Validation Confirmation
+- Fix: LM Studio Server Link
+
+---
+
 ## ℹ️ About
 
 | | |
 |---|---|
 | **App Name** | eBooks & Notes Companion App |
-| **Version** | 1.24 |
+| **Version** | 2.01 |
 | **Developer** | xAPPS-Lab.ca |
 | **Website** | [androidapps.xapps-lab.com](https://androidapps.xapps-lab.com) |
 | **LinkedIn** | [jstaguan](https://www.linkedin.com/in/jstaguan) |
